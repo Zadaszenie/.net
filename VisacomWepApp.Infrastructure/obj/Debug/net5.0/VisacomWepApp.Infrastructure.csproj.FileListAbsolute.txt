@@ -1,0 +1,12 @@
+C:\Users\user4\source\repos\VisacomWepApp\VisacomWepApp.Infrastructure\bin\Debug\net5.0\VisacomWepApp.Infrastructure.deps.json
+C:\Users\user4\source\repos\VisacomWepApp\VisacomWepApp.Infrastructure\bin\Debug\net5.0\VisacomWepApp.Infrastructure.dll
+C:\Users\user4\source\repos\VisacomWepApp\VisacomWepApp.Infrastructure\bin\Debug\net5.0\ref\VisacomWepApp.Infrastructure.dll
+C:\Users\user4\source\repos\VisacomWepApp\VisacomWepApp.Infrastructure\bin\Debug\net5.0\VisacomWepApp.Infrastructure.pdb
+C:\Users\user4\source\repos\VisacomWepApp\VisacomWepApp.Infrastructure\obj\Debug\net5.0\VisacomWepApp.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\user4\source\repos\VisacomWepApp\VisacomWepApp.Infrastructure\obj\Debug\net5.0\VisacomWepApp.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user4\source\repos\VisacomWepApp\VisacomWepApp.Infrastructure\obj\Debug\net5.0\VisacomWepApp.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\user4\source\repos\VisacomWepApp\VisacomWepApp.Infrastructure\obj\Debug\net5.0\VisacomWepApp.Infrastructure.AssemblyInfo.cs
+C:\Users\user4\source\repos\VisacomWepApp\VisacomWepApp.Infrastructure\obj\Debug\net5.0\VisacomWepApp.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\user4\source\repos\VisacomWepApp\VisacomWepApp.Infrastructure\obj\Debug\net5.0\VisacomWepApp.Infrastructure.dll
+C:\Users\user4\source\repos\VisacomWepApp\VisacomWepApp.Infrastructure\obj\Debug\net5.0\ref\VisacomWepApp.Infrastructure.dll
+C:\Users\user4\source\repos\VisacomWepApp\VisacomWepApp.Infrastructure\obj\Debug\net5.0\VisacomWepApp.Infrastructure.pdb
